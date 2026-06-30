@@ -1,4 +1,4 @@
-`systems engineering student · universidad de guanajuato`
+<img src="assets/header.svg" alt="César Servín González — systems engineering student" width="100%">
 
 I work close to the hardware — networking, embedded targets, and software that
 treats privacy as a constraint rather than a feature. I usually start from a
