@@ -1,16 +1,141 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DARKSlMONSTERl/DARKSlMONSTERl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>César Servín González</h1>
 
-Here are some ideas to get you started:
+<pre>
+Software Engineering
+Systems • Networks • Infrastructure • Embedded
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%">
+
+### About
+
+Focused on building systems rather than isolated applications.
+
+Interests:
+
+```txt
+Cybersecurity
+Distributed Systems
+Networking
+Embedded Systems
+Linux
+```
+
+</td>
+
+<td width="45%">
+
+### Environment
+
+```txt
+OS        Arch Linux
+Editor    VS Code / Claude Code
+Cloud     Railway
+DB        Supabase
+CDN       Cloudflare
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Current
+
+```txt
+[ ACTIVE ]
+
+▣ Vixxer
+▣ Tao
+▣ Infrastructure
+□ Security Labs
+```
+
+---
+
+## Architecture
+
+```txt
+client
+ │
+ ▼
+cloudflare
+ │
+ ▼
+frontend
+ │
+ ▼
+railway
+ │
+ ▼
+supabase
+```
+
+---
+
+## Stack
+
+<table>
+
+<tr>
+<td>
+
+Languages
+
+C
+C++
+SQL
+
+</td>
+
+<td>
+
+Systems
+
+Linux
+Git
+SSH
+
+</td>
+
+<td>
+
+Networks
+
+VLAN
+Routing
+Switching
+
+</td>
+
+<td>
+
+Embedded
+
+ESP32
+STM32
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+vixxer.dev
+
+</div>
