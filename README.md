@@ -1,21 +1,32 @@
 <div align="center">
 
-# César Servín González
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=C%C3%A9sar%20Serv%C3%ADn%20Gonz%C3%A1lez&fontColor=FFFFFF&fontSize=34&animation=fadeIn"
+/>
+
+<br>
 
 Software Engineering Student
 
 Building software, systems and products.
 
-University of Guanajuato  
-B.Sc. in Systems Engineering · Expected 2028
+<br><br>
 
-<a href="https://vixxer.dev">Website</a>
-•
-<a href="mailto:c.servingonzalez@ugto.mx">Contact</a>
+<a href="https://vixxer.dev">
+<img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:c.servingonzalez@ugto.mx">
+<img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/DARKSlMONSTERl">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+</a>
 
 </div>
 
-<br>
+---
 
 ## About
 
@@ -23,53 +34,72 @@ I enjoy understanding how things work and building them.
 
 My interests revolve around software engineering, cybersecurity, networking and embedded systems.
 
-Most of my work comes from personal projects, experimentation and turning ideas into working software.
-
 ---
 
 ## Selected Work
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### Vixxer
 
 Product and software experimentation.
 
+</td>
+
+<td width="50%">
+
 ### Tao
 
 Embedded and intelligent systems exploration.
 
-### Academic Projects
+</td>
 
-Applications and systems developed through university work and collaboration.
+</tr>
+
+</table>
 
 ---
 
 ## Capabilities
 
-```txt
-Software Development
-Problem Solving
-System Design
-Networking
-Embedded Development
-Technical Adaptability
-```
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,git"/>
 
-## Tools I Usually Work With
+</div>
 
-```txt
-C · C++ · SQL
-Linux · Git
-Supabase · Railway
-```
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase"/>
+
+</div>
 
 ---
 
 ## Current Direction
 
+<div align="center">
+
 ```txt
-Building > collecting tools
-Understanding > memorization
-Systems > abstraction
+Building > Collecting
+Understanding > Memorizing
+Systems > Abstraction
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=DARKSlMONSTERl&hide_border=true&bg_color=0d1117&color=ffffff&line=8a8a8a&point=ffffff"
+/>
+
+</div>
