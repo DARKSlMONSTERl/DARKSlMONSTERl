@@ -32,7 +32,7 @@ Building software, systems and products.
 
 I enjoy understanding how things work and building them.
 
-My interests revolve around software engineering, cybersecurity, networking and embedded systems.
+My interests revolve around software engineering, cybersecurity, and networking.
 
 ---
 
