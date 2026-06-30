@@ -1,207 +1,51 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=César%20Servín%20González&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student&descAlignY=68"
-/>
+# César Servín González
+### Software Engineering Student — Universidad de Guanajuato
+
+[![Website](https://img.shields.io/badge/vixxer.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vixxer.dev)
+[![Email](https://img.shields.io/badge/contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.servingonzalez@ugto.mx)
+
+</div>
 
 <br>
 
-<a href="https://vixxer.dev">
-<img src="https://img.shields.io/badge/vixxer.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="mailto:c.servingonzalez@ugto.mx">
-<img src="https://img.shields.io/badge/contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-Software • Systems • Networks
-
-</div>
-
----
-
-<table>
-
-<tr>
-
-<td width="55%">
-
 ## About
 
-I enjoy understanding systems and building things.
+Systems Engineering student building privacy-first software through **Vixxer** and exploring embedded AI through **Tao**. Background in networking and software engineering, with a focus on systems that are secure and private by design rather than as an afterthought.
 
-Current interests:
+<br>
 
-- Software Engineering
-- Cybersecurity
-- Networking
-- Embedded Systems
+## Building
 
-Most of my work comes from experimentation,
-personal projects and transforming ideas
-into functional software.
+### [Vixxer](https://vixxer.dev) — Software Studio
+Software studio designing and building its own products, with privacy and security as the foundation, not a bolt-on. Currently developing **Vixxer Mensajero**, a messaging app built around real conversational privacy.
 
-</td>
+`Privacy by design` · `Own products` · `Ethics first` · `Hecho en México`
 
-<td width="45%">
+**[vixxer.dev](https://vixxer.dev)** · **[GitHub](https://github.com/V-i-x-x-e-r)**
 
-## Status
+### Tao — Embedded AI Agent
+An AI agent running on an STM32, connected to a private inference server to keep responses fast despite running on constrained hardware. A study in how far conversational AI can be pushed outside of a typical cloud-client setup.
 
-```txt
-building
-
-vixxer
-tao
-academic work
-
-```
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## Selected Work
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Vixxer
-
-Software product experimentation.
-
-</td>
-
-<td width="50%">
-
-### Tao
-
-Embedded systems exploration.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
+<br>
 
 ## Stack
 
 <div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=c,cpp,linux,git,supabase,firebase"
-/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,py,arch,git,supabase,firebase" />
 </div>
 
 <br>
 
-<div align="center">
+| Languages | Systems | Focus |
+|---|---|---|
+| C, C++, Python, SQL | Arch Linux, Git, Cisco | Networking, Cybersecurity |
 
-<table>
-
-<tr>
-
-<td>
-
-Languages
-
-```txt
-C
-C++
-SQL
-```
-
-</td>
-
-<td>
-
-Systems
-
-```txt
-Linux
-Git
-```
-
-</td>
-
-<td>
-
-Interests
-
-```txt
-Security
-Networks
-Embedded
-```
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
+<br>
 
 ## Activity
 
 <div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=DARKSlMONSTERl&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=DARKSlMONSTERl&hide_border=true&bg_color=0D1117&line=ffffff&point=ffffff&color=ffffff"
-/>
-
-</div>
-
----
-
-## Philosophy
-
-<div align="center">
-
-```txt
-Understanding > Memorization
-
-Building > Collecting
-
-Systems > Abstraction
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ffffff"
-/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DARKSlMONSTERl&show_icons=true&hide_border=true&theme=transparent" />
 </div>
