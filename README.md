@@ -1,51 +1,31 @@
-<div align="center">
+`systems engineering student · universidad de guanajuato`
 
-# César Servín González
-### Software Engineering Student — Universidad de Guanajuato
+I work close to the hardware — networking, embedded targets, and software that
+treats privacy as a constraint rather than a feature. I usually start from a
+problem I actually have and stop once it runs.
 
-[![Website](https://img.shields.io/badge/vixxer.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vixxer.dev)
-[![Email](https://img.shields.io/badge/contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.servingonzalez@ugto.mx)
+[![vixxer.dev](https://img.shields.io/badge/vixxer.dev-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://vixxer.dev)
+[![email](https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:c.servingonzalez@ugto.mx)
 
-</div>
+---
 
-<br>
+## ~/building
 
-## About
+**[Vixxer](https://vixxer.dev)** — software studio  
+Designs and ships its own products with privacy and security as the baseline,
+not an afterthought. First product in development: **Vixxer Mensajero**, a
+messaging app built so the conversations stay actually private.  
+[vixxer.dev](https://vixxer.dev) · [github.com/V-i-x-x-e-r](https://github.com/V-i-x-x-e-r)
 
-Systems Engineering student building privacy-first software through **Vixxer** and exploring embedded AI through **Tao**. Background in networking and software engineering, with a focus on systems that are secure and private by design rather than as an afterthought.
+**Tao** — embedded AI agent  
+A conversational agent running on an STM32, wired to a private inference server
+so responses stay fast on hardware that has no business running an assistant.
+An experiment in pushing AI past the usual cloud-client setup.
 
-<br>
+## ~/stack
 
-## Building
-
-### [Vixxer](https://vixxer.dev) — Software Studio
-Software studio designing and building its own products, with privacy and security as the foundation, not a bolt-on. Currently developing **Vixxer Mensajero**, a messaging app built around real conversational privacy.
-
-`Privacy by design` · `Own products` · `Ethics first` · `Hecho en México`
-
-**[vixxer.dev](https://vixxer.dev)** · **[GitHub](https://github.com/V-i-x-x-e-r)**
-
-### Tao — Embedded AI Agent
-An AI agent running on an STM32, connected to a private inference server to keep responses fast despite running on constrained hardware. A study in how far conversational AI can be pushed outside of a typical cloud-client setup.
-
-<br>
-
-## Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,arch,git,supabase,firebase" />
-</div>
-
-<br>
-
-| Languages | Systems | Focus |
-|---|---|---|
-| C, C++, Python, SQL | Arch Linux, Git, Cisco | Networking, Cybersecurity |
-
-<br>
-
-## Activity
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DARKSlMONSTERl&show_icons=true&hide_border=true&theme=transparent" />
-</div>
+```txt
+languages    c · c++ · python · sql
+systems      arch linux · git · cisco
+focus        networking · cybersecurity · low-level
+```
