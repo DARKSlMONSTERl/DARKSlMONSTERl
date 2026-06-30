@@ -1,60 +1,62 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=C%C3%A9sar%20Serv%C3%ADn%20Gonz%C3%A1lez&fontColor=FFFFFF&fontSize=34&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=César%20Servín%20González&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student&descAlignY=68"
 />
 
 <br>
 
-Software Engineering Student
-
-Building software, systems and products.
-
-<br><br>
-
 <a href="https://vixxer.dev">
-<img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/vixxer.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <a href="mailto:c.servingonzalez@ugto.mx">
-<img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/DARKSlMONSTERl">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
-</a>
+<br><br>
+
+Software • Systems • Networks
 
 </div>
 
 ---
 
-## About
-
-I enjoy understanding how things work and building them.
-
-My interests revolve around software engineering, cybersecurity, and networking.
-
----
-
-## Selected Work
-
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="55%">
 
-### Vixxer
+## About
 
-Product and software experimentation.
+I enjoy understanding systems and building things.
+
+Current interests:
+
+- Software Engineering
+- Cybersecurity
+- Networking
+- Embedded Systems
+
+Most of my work comes from experimentation,
+personal projects and transforming ideas
+into functional software.
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### Tao
+## Status
 
-Embedded and intelligent systems exploration.
+```txt
+building
+
+vixxer
+tao
+academic work
+
+```
 
 </td>
 
@@ -64,11 +66,45 @@ Embedded and intelligent systems exploration.
 
 ---
 
-## Capabilities
+## Selected Work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git"/>
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Vixxer
+
+Software product experimentation.
+
+</td>
+
+<td width="50%">
+
+### Tao
+
+Embedded systems exploration.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img
+src="https://skillicons.dev/icons?i=c,cpp,linux,git,supabase,firebase"
+/>
 
 </div>
 
@@ -76,19 +112,85 @@ Embedded and intelligent systems exploration.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase"/>
+<table>
+
+<tr>
+
+<td>
+
+Languages
+
+```txt
+C
+C++
+SQL
+```
+
+</td>
+
+<td>
+
+Systems
+
+```txt
+Linux
+Git
+```
+
+</td>
+
+<td>
+
+Interests
+
+```txt
+Security
+Networks
+Embedded
+```
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## Current Direction
+## Activity
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=DARKSlMONSTERl&show_icons=true&hide_border=true&theme=transparent"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=DARKSlMONSTERl&hide_border=true&bg_color=0D1117&line=ffffff&point=ffffff&color=ffffff"
+/>
+
+</div>
+
+---
+
+## Philosophy
 
 <div align="center">
 
 ```txt
+Understanding > Memorization
+
 Building > Collecting
-Understanding > Memorizing
+
 Systems > Abstraction
 ```
 
@@ -99,7 +201,7 @@ Systems > Abstraction
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=DARKSlMONSTERl&hide_border=true&bg_color=0d1117&color=ffffff&line=8a8a8a&point=ffffff"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ffffff"
 />
 
 </div>
