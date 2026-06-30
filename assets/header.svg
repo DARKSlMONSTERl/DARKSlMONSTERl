@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="César Servín González — systems engineering student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e14"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6e9fce" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#6e9fce" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#6e9fce" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6e9fce" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#6e9fce" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#161b24"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="250" fill="url(#bg)"/>
+  <rect width="1200" height="250" fill="url(#dots)"/>
+  <circle cx="1080" cy="40" r="230" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="1200" height="2" fill="url(#topline)"/>
+
+  <!-- left accent bar -->
+  <rect x="80" y="64" width="3" height="124" rx="1.5" fill="#3d5a73"/>
+
+  <!-- prompt -->
+  <text x="106" y="92" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="20">
+    <tspan fill="#6e9fce">xecs</tspan><tspan fill="#586069">@</tspan><tspan fill="#8b949e">LOQ</tspan><tspan fill="#586069">:~$ whoami</tspan>
+  </text>
+
+  <!-- name + blinking cursor -->
+  <text x="106" y="160" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="50" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">César Servín González<tspan dx="8" fill="#6e9fce">█<animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+
+  <!-- tagline -->
+  <text x="106" y="196" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="18" fill="#8b949e">software engineering<tspan fill="#2d333b">  ·  </tspan>networking<tspan fill="#2d333b">  ·  </tspan>systems<tspan fill="#2d333b">  ·  </tspan>security</text>
+
+  <!-- signature -->
+  <text x="1118" y="226" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#6e9fce">vixxer.dev</text>
+</svg>
