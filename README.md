@@ -1,141 +1,75 @@
 <div align="center">
 
-<h1>César Servín González</h1>
+# César Servín González
 
-<pre>
-Software Engineering
-Systems • Networks • Infrastructure • Embedded
-</pre>
+Software Engineering Student
+
+Building software, systems and products.
+
+University of Guanajuato  
+B.Sc. in Systems Engineering · Expected 2028
+
+<a href="https://vixxer.dev">Website</a>
+•
+<a href="mailto:c.servingonzalez@ugto.mx">Contact</a>
 
 </div>
 
 <br>
 
-<table>
-<tr>
+## About
 
-<td width="55%">
+I enjoy understanding how things work and building them.
 
-### About
+My interests revolve around software engineering, cybersecurity, networking and embedded systems.
 
-Focused on building systems rather than isolated applications.
+Most of my work comes from personal projects, experimentation and turning ideas into working software.
 
-Interests:
+---
+
+## Selected Work
+
+### Vixxer
+
+Product and software experimentation.
+
+### Tao
+
+Embedded and intelligent systems exploration.
+
+### Academic Projects
+
+Applications and systems developed through university work and collaboration.
+
+---
+
+## Capabilities
 
 ```txt
-Cybersecurity
-Distributed Systems
+Software Development
+Problem Solving
+System Design
 Networking
-Embedded Systems
-Linux
+Embedded Development
+Technical Adaptability
 ```
 
-</td>
+---
 
-<td width="45%">
-
-### Environment
+## Tools I Usually Work With
 
 ```txt
-OS        Arch Linux
-Editor    VS Code / Claude Code
-Cloud     Railway
-DB        Supabase
-CDN       Cloudflare
+C · C++ · SQL
+Linux · Git
+Supabase · Railway
 ```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-## Current
+## Current Direction
 
 ```txt
-[ ACTIVE ]
-
-▣ Vixxer
-▣ Tao
-▣ Infrastructure
-□ Security Labs
+Building > collecting tools
+Understanding > memorization
+Systems > abstraction
 ```
-
----
-
-## Architecture
-
-```txt
-client
- │
- ▼
-cloudflare
- │
- ▼
-frontend
- │
- ▼
-railway
- │
- ▼
-supabase
-```
-
----
-
-## Stack
-
-<table>
-
-<tr>
-<td>
-
-Languages
-
-C
-C++
-SQL
-
-</td>
-
-<td>
-
-Systems
-
-Linux
-Git
-SSH
-
-</td>
-
-<td>
-
-Networks
-
-VLAN
-Routing
-Switching
-
-</td>
-
-<td>
-
-Embedded
-
-ESP32
-STM32
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-vixxer.dev
-
-</div>
